@@ -1,4 +1,4 @@
-# Hi, I'm Kris 👋
+# Hi, I'm Kris
 
 I run **[WattKind AI](https://wattkind.ai)** — a small family business in Queensland, Australia.
 We build helpful apps for problems our own house has actually had: homework on a low-energy
@@ -17,6 +17,17 @@ date on your phone, and tells you what's about to run out. No account, no server
 **[StudyKind](https://wattkind.ai)** — study support that meets you where you are.
 Short, student-led study conversations with lightweight setup and parent oversight.
 It started as a study coach I built for my son, and it's where most of my time goes now.
+
+## The day job
+
+By day I lead AI and automation for a large organisation: working out which of
+the hundred things people want automated is the one actually costing them, and
+then shipping something that survives contact with the people who have to use it.
+Most of that work is not building. It is listening, watching how a job really
+gets done, and finding the problem underneath the one in the request.
+
+That is the skill WattKind runs on. The apps are small because the problems
+were found carefully.
 
 ## How we decide what to build
 
