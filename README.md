@@ -13,7 +13,8 @@ own to-do list.
 A free, local-only app that keeps every household device's manual, receipt and warranty
 date on your phone, and tells you what's about to run out. No account, no server, no cloud.
 [App Store](https://apps.apple.com/au/app/homekind/id6816028407) ·
-[Google Play](https://play.google.com/store/apps/details?id=ai.wattkind.homekind)
+[Google Play](https://play.google.com/store/apps/details?id=ai.wattkind.homekind) ·
+[Source](https://github.com/wattkind/HomeKind)
 
 **[StudyKind](https://wattkind.ai)** — study support that meets you where you are.
 Short, student-led study conversations with lightweight setup and parent oversight.
