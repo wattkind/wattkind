@@ -1,10 +1,11 @@
-# Hi, I'm Kris
+# WattKind AI
 
-I run **[WattKind AI](https://wattkind.ai)** — a small family business in Queensland, Australia.
-We build helpful apps for problems our own house has actually had: homework on a low-energy
-day, a drawer full of manuals and receipts, that sort of thing.
+WattKind AI is Kris Watt: a small family business in Queensland, Australia,
+building helpful apps for problems our own house has actually had. Homework on
+a low-energy day, a drawer full of manuals and receipts, that sort of thing.
 
-No investors, no ads, no data sold. Just us, and the problems on our own to-do list.
+No investors, no ads, no data sold. Just one family, and the problems on our
+own to-do list.
 
 ## What we've shipped
 
@@ -16,15 +17,16 @@ date on your phone, and tells you what's about to run out. No account, no server
 
 **[StudyKind](https://wattkind.ai)** — study support that meets you where you are.
 Short, student-led study conversations with lightweight setup and parent oversight.
-It started as a study coach I built for my son, and it's where most of my time goes now.
+It started as a study coach built for our son, and it is where most of the time goes now.
 
 ## The day job
 
-By day I lead AI and automation for a large organisation: working out which of
-the hundred things people want automated is the one actually costing them, and
-then shipping something that survives contact with the people who have to use it.
-Most of that work is not building. It is listening, watching how a job really
-gets done, and finding the problem underneath the one in the request.
+By day Kris leads AI and automation for a large organisation: working out
+which of the hundred things people want automated is the one actually costing
+them, and then shipping something that survives contact with the people who
+have to use it. Most of that work is not building. It is listening, watching
+how a job really gets done, and finding the problem underneath the one in the
+request.
 
 That is the skill WattKind runs on. The apps are small because the problems
 were found carefully.
